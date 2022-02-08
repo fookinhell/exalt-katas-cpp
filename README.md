@@ -11,7 +11,7 @@ Au plaisir de lire votre code !
 ## C\# Optim
 Pour les moins timides, 2 katas qui permettent d'évaluer l'élégance algorithmique.
 
-[Produire 3 chaînes d'un hashcode équivalent](/optim-SameHashCode)
+[Produire une collision de hashcodes pour 3 chaînes de caractères](/optim-SameHashCode)
 
 [Calculatrice racine n-ième](/optim-nthRoot)
 
